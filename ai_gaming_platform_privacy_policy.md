@@ -3,7 +3,7 @@
 **Effective Date:** September 18, 2026  
 **Last Updated:** September 18, 2026  
 **Developer:** Tshiamo Jantjie  
-**Contact Email:** tshiajan@gmail.com  
+**Contact Email:** janaire.dev@gmail.com  
 **Hosted Policy URL:** https://tshiajan.github.io/ai-gaming-platform-privacy/
 
 ---
